@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">petday</string>
+    <string name="home_title">Inicio</string>
+    <string name="home_profile">Perfil</string>
+    <string name="home_add">Crear</string>
+    <string name="home_services">Servicios</string>
+    <string name="home_moments">Momentos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
