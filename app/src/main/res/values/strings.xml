@@ -5,6 +5,30 @@
     <string name="home_add">Crear</string>
     <string name="home_services">Servicios</string>
     <string name="home_moments">Momentos</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="helper_required">Requerido</string>
+    <string name="add_button_select">Seleccionar imagen</string>
+    <string name="add_hint_title">título de la instantánea</string>
+    <string name="add_button_post">Publicar</string>
+
+    <string name="dialog_delete_title">¿Eliminar instantánea?</string>
+    <string name="dialog_delete_confirm">Eliminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+
+    <string name="dialog_logout_title">¿Desea cerrar la sesión actual?</string>
+    <string name="dialog_logout_confirm">Cerrar</string>
+    <string name="dialog_logout_cancel">Cancelar</string>
+
+    <string name="main_auth_welcome">Bienvenido</string>
+    <string name="post_message_title">Seleccione una imagen</string>
+    <string name="post_message_valid_title">Por favor, añada un título</string>
+    <string name="post_message_post_success">Instantánea publicada.</string>
+    <string name="post_message_post_image_fail">No se pudo subir la fotografía.</string>
+    <string name="post_message_post_snapshot_fail">No se pudo publicar la instantánea.</string>
+
+    <string name="profile_logout_success">Hasta pronto&#8230;</string>
+    <string name="profile_button_logout">Cerrar sesión</string>
+    <string name="description_item_delete">Botón para eliminar instantánea.</string>
+    <string name="home_delete_photo_error">Error al eliminar la foto.</string>
+
 </resources>

@@ -1,4 +1,4 @@
-package com.davidvelez.PetDay
+package com.davidvelez.petday
 
 import org.junit.Test
 

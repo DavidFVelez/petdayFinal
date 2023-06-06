@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123141410626",
+    "project_id": "petdayfinal",
+    "storage_bucket": "petdayfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123141410626:android:e5d4baf0cc54c1e0a942db",
+        "android_client_info": {
+          "package_name": "com.davidvelez.petday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123141410626-gb7qisp3bk4fv9b7urgjep6seodqdbjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8J2UH3fYXS4ASYFAWYbber_61kUR0jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123141410626-gb7qisp3bk4fv9b7urgjep6seodqdbjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
